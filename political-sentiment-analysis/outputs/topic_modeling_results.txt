@@ -1,0 +1,16 @@
+Bawumia — Top Topics (LDA, 5 topics)
+==================================================
+Topic 1: debate, bawumia, need, first, economy, going, election, question
+Topic 2: mahama, legacy, ghana, make, bawumia, head, ghanaians, team
+Topic 3: man, people, ghana, like, npp, dey, see, say
+Topic 4: even, government, money, leader, people, lie, country, corruption
+Topic 5: president, addo, bawumia, vice, ghana, nana, economy, minister
+
+Mahama — Top Topics (LDA, 5 topics)
+==================================================
+Topic 1: npp, ghana, say, know, party, time, think, guy
+Topic 2: policy, going, work, bawumia, ghanaians, know, must, night
+Topic 3: bawumia, ghanaians, like, job, create, see, vote, people
+Topic 4: john, president, bawumia, youth, dramani, ghana, talking, npp
+Topic 5: explain, people, even, understand, one, free, nothing, explaining
+
